@@ -1,4 +1,4 @@
-package MiCodigo;
+package MiCodig;
 
 public class Circulo {
 	private double radio;
